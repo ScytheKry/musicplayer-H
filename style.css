@@ -68,7 +68,7 @@ h1{
    width: 70%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('/assets/bg.jpg');
+   background-image: url('assets/bg.jpg');
 }
 
 .songName {
